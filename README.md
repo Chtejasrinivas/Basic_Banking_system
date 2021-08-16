@@ -1,5 +1,7 @@
-# Basic_Banking_system
+# Basic_Banking_System
 # Internship
+# The Sparks Foundation
+# GRIP
 
 Hello,I am Teja Srinivas currently working as a Web Development Intern in GRIP at The Sparks Foundation.
 
