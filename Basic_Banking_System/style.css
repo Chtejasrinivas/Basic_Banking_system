@@ -1,0 +1,194 @@
+
+*{
+  margin:0%;
+  padding:0%;
+}
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+.inner-image h1{
+  text-transform: lowercase;
+  color:blue;
+  font-size:3.5rem;
+}
+.inner-image p{
+  color:blue;
+  font-weight: 600;
+}
+.inner-image marquee {
+  color:red;
+}
+.pro{
+ font-size: 36px;
+ color: rgb(12, 12, 11);
+ margin-top: auto;
+ margin-right:800px;
+ margin-left: 0px;
+ padding: 0%; 
+ margin-bottom: 0px;
+ background: rgb(200, 200, 204);
+}
+
+header .btn:hover{
+  background:antiquewhite;
+  font-size: 15px;
+  color:black;
+  text-decoration: none;
+  padding: 10px;
+  border:10px solid  rgb(200, 200, 204);
+  border-radius: 6px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+header a:hover{
+  text-decoration: none;  
+}
+#money{
+  position: absolute;
+  left: 66px;
+  top: 95px;
+  width:190px;
+  height:190px;
+}
+.content-image {
+  padding: 0px;
+  text-align: center;
+  color:	darkslategray;
+  background-size:cover;
+}
+.inner-image {
+  padding-bottom: 14%;
+  width: 100%;
+  margin: 0px;
+  position: absolute;
+  top: 30%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+}
+header a.button{
+  border: 1px solid rgb(116, 113, 113);
+  border-radius: 12px;
+  background: rgb(17, 219, 44);
+  color:rgb(212, 208, 219);
+  font-size:13px;
+  padding:5px;
+  text-decoration: none;
+}
+header{
+  background: rgb(200, 200, 204);
+}
+.somex{
+  background: rgb(200, 200, 204);
+}
+.customer{
+  position: absolute;
+  border-radius: 50px;
+  top: 55%;
+  left: 19%;  
+  transform: translate(-50%, -50%);
+}
+.cust{
+  position: absolute;
+  top: 80%;
+  left: 19%;  
+  transform: translate(-50%, -50%);
+}
+.transact{
+  position: absolute;
+  border-radius: 50px;
+  top: 55%;
+  left: 87%;  
+  transform: translate(-50%, -50%);
+}
+.trans{
+  position: absolute;
+  top: 80%;
+  left: 85%;  
+  transform: translate(-50%, -50%);
+}
+.bank{
+  position: absolute;
+  border-radius: 50px;
+  top: 55%;
+  left: 54%;  
+  transform: translate(-50%, -50%);
+}
+.buttons{
+  border-width:0px;
+  color:white;
+  background-color:midnightblue;
+  font-size:25px;
+  border-radius:15px;
+  padding: 5px;
+
+}
+.buttons:hover{
+  text-decoration: none;
+  color:rgba(255, 255, 255, 0.75);
+}
+/* customers page */
+.col{
+  text-align: center;
+  color:indigo;
+}
+.btn1:hover{
+  background: none;
+  text-decoration:none;
+  color:red;
+}
+.btn1{
+  color:black;
+  font-size: 22px;
+}
+.somey{
+  background:lightblue;
+}
+table,th,td{
+  border: 3px solid black;
+}
+th,td{
+  padding: 5px;
+}
+#t02 tr:nth-child(even) {
+  background-color:whitesmoke;
+}
+#t02 tr:nth-child(odd) {
+ background-color:white;
+}
+#t01 th {
+  background-color:royalblue;
+  color: white;
+}
+#t00{
+  position: absolute;
+  top: 15%;
+  margin:50px;
+  padding-bottom:10px;
+  left: 25%;
+}
+.bg{
+  margin: 0px;
+  position: absolute;
+}
+/* History page */
+footer{
+  position: absolute;
+  width: 100%;
+  text-align:center;
+  color:white;
+  font-size: 1.1rem;
+  background-color:black;
+}
+footer span{
+  color:red;
+}
+footer i{
+  margin: 0px 20px;
+  font-size: 1.9rem;
+  color:white;
+}
+footer i:hover{
+color: aqua;
+}
